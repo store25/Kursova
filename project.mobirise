@@ -34,7 +34,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<script src=\"//code.jquery.com/jquery-1.11.3.min.js\"></script>\n<script defer src=\"//lk.easynetshop.ru/frontend/v5/test.js\"></script>\n<link href=\"//lk.easynetshop.ru/frontend/v5/test.css\" rel=\"stylesheet\">\n",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/asus-logo-colored-128x128-1.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
